@@ -1,5 +1,12 @@
-const name = "Joe";
-const height = 74;
-const console.log(message); = `${name} is ${height} inches tall`;
 
-module.exports = { name, height, message };
+function Name() {
+    return "Susan";
+  }
+
+function hight() {
+    return height; 39
+}
+
+function message () {
+    return message; (name, height)
+}
